@@ -1,4 +1,16 @@
 body {
-background-color:
+background-color: black;
   color: white;
+  font-family: "Quicksand", sans-serif;
+  display: flex;
+  justify-content: center;
+  aling-items: center;
+  height: 700px;
+  margin: 0;
+}
+
+button {
+background-color: brown;
+color: chocolate;
+font-family: "Quicksand", sans-serif;
 }
